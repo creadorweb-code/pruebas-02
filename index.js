@@ -9,13 +9,13 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a mi sitio</h1>
+        <h1>Bienvenido Angel Balam</h1>
     </header>
     <main>
-        <p>Contenido principal.</p>
+        <p>Contenido Balam</p>
     </main>
     <footer>
-        <p>Contacto: info@sitio.com</p>
+        <p>Contacto: mi correo</p>
     </footer>
     <!-- Enlace a JavaScript -->
     <script src="index.js"></script>
